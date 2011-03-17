@@ -16,4 +16,4 @@
     
     exports.augment = augment;
     
-})(this || {});
+})(this);

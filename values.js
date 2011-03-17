@@ -8,4 +8,4 @@
     
     exports.values = values;
     
-})(this || {});
+})(this);
